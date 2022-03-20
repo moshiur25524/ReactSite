@@ -1,0 +1,8 @@
+nav a{
+    text-decoration: none;
+    margin-right: 15px;
+    padding: 10px;
+    background-color: rgb(214, 238, 230);
+    color: brown;
+    font-size: 30px;
+}

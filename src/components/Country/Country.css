@@ -1,0 +1,11 @@
+.country{
+    background-color: bisque;
+    margin: 20px;
+    padding: 15px;
+    border: 2px solid palevioletred;
+    border-radius: 10px;
+}
+
+.country p a{
+    text-decoration: none;
+}
